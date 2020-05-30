@@ -1,0 +1,32 @@
+import turtle
+thunder = turtle.Pen()
+thunder.shape("turtle")
+thunder.color("red")
+thunder.circle(123)
+thunder.circle(113)
+thunder.circle(103)
+thunder.color("orange")
+thunder.circle(93)
+thunder.circle(83)
+thunder.circle(73)
+thunder.color("yellow")
+thunder.circle(63)
+thunder.circle(53)
+thunder.circle(43)
+thunder.color("green")
+thunder.circle(33)
+thunder.circle(23)
+thunder.circle(13)
+thunder.color("blue")
+thunder.circle(3)
+import turtle
+fred = turtle.Pen()
+fred. shape("turtle")
+fred.color("red")
+fred.circle(133)
+fred.up()
+fred.circle(174)
+fred.forward(34)
+while True:
+    pass
+
